@@ -1,0 +1,16 @@
+django app
+
+login
+user
+psw
+
+add service/bill
+
+overview
+
+due date
+amount due
+partial sum
+total sum
+
+alerts
